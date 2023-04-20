@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 480c2aa9c6dbd05448140ef66b44439f, type: 3}
+  m_Name: ScenarioData1
+  m_EditorClassIdentifier: 
+  id: 1
+  round: 2 Rounds
+  money: 100
+  scenarioDetail: 'You have been nominated to test the Decathlon business in Bangladesh.
+    \n Your objective is to sale products without structure. \n The stake is : \n
+    to have a small budget \n to connect your supply to the nearest country.'

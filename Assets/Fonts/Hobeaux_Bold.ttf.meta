@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 74469b428f3bcba42ac735c3d3d9d477
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hobeaux
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a1d78e5cfa518c84fbf4895a1d3c860f, type: 3}
+  - {fileID: 12800000, guid: 447665dd9e333a643b1b5e48402577b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
